@@ -18,7 +18,7 @@ This project analyzes **1.45 Million+ NYC taxi records** to optimize operational
 
 ## 📂 Files Included
 - `NYC_Taxi_Analysis.pbix`: Full Power BI Dashboard.
-- `Project_Report.docx`: Detailed methodology and documentation.
+- `Project_Report.docx`: Detailed documentation.
 
 
 
